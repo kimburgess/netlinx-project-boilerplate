@@ -1,0 +1,6 @@
+*.*
+!.gitignore
+!*.tko
+!*.jar
+!/*/*
+.DS_Store

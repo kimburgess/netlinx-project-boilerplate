@@ -1,0 +1,5 @@
+*.*
+!.gitignore
+!*.tp4
+!*.tp5
+.DS_Store

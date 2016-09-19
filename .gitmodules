@@ -1,0 +1,6 @@
+[submodule "lib/amx-device-library"]
+	path = lib/amx-device-library
+	url = https://github.com/AMXAUNZ/amx-device-library.git
+[submodule "lib/netlinx-common-libraries"]
+	path = lib/netlinx-common-libraries
+	url = https://github.com/KimBurgess/netlinx-common-libraries.git
